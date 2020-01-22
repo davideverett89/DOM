@@ -1,3 +1,23 @@
 body {
     background-color: aqua;
 }
+
+#target {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.card {
+    border: 1px solid black;
+    margin: 5px;
+}
+
+.container {
+    width: 50px;
+    margin: 0 auto;
+}
+
+img {
+    margin: 0 auto;
+}
